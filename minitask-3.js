@@ -13,4 +13,4 @@ while (change > 0) {
   }
 }
 
-console.log(changeUse);
+console.log(`Silahkan ambil kembaliannya yaa: ${changeUse.join(', ')}`);
